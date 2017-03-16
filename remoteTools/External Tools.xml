@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="composer update - daisyconfinterface" description="composer update - daisyconfinterface" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT" CONNECTION_ID="vagrant:C:\Vagrant_instances">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/composer" />
+      <option name="PARAMETERS" value="update" />
+      <option name="WORKING_DIRECTORY" value="/home/httpd/vhosts/daisyconinterface" />
+    </exec>
+  </tool>
+  <tool name="apache restart" description="apache restart" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT" CONNECTION_ID="vagrant:C:\Vagrant_instances">
+    <exec>
+      <option name="COMMAND" value="/home/server_admin/scripts/restart_apache.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

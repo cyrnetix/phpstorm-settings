@@ -1,0 +1,91 @@
+<code_scheme name="Default (1)">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="false" />
+      <option name="LABEL_INDENT_SIZE" value="0" />
+      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
+      <option name="USE_RELATIVE_INDENTS" value="false" />
+    </value>
+  </option>
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+    <option name="NAMESPACE_BRACE_STYLE" value="2" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CATCH_ON_NEW_LINE" value="true" />
+    <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
